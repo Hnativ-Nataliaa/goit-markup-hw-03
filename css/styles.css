@@ -217,10 +217,7 @@ letter-spacing: 0.02em;
 color:var(--color-slate);}
 
 /* Секція 3 */
-.container-about{
-display: flex;
-flex-wrap: wrap;
-}
+
 .about{
 padding-top: 0;
 padding-bottom: 120px;
@@ -246,10 +243,7 @@ max-width: 360px;
 }
 
 /* Секція 4 */
-.team-container{
-display: flex;
-flex-wrap: wrap;
-}
+
 .team {
 background-color:var(--color-cloud);
 }
